@@ -4,12 +4,18 @@ import Head from "next/head";
 
 export default function Home() {
   return (
-    <div classNameName="container">
+    <div className="">
       <Head>
         <title>BigistLove</title>
         <link rel="icon" href="/favicon.ico" />
-        <script type="text/javascript" src="../public/js/jquery-3.1.1.min.js"></script>
-        <script type="text/javascript" src="../public/js/jquery-bootstrap.js"></script>
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700%7CPoppins:400,500" rel="stylesheet"></link>
+        <script type="text/javascript" src="/js/jquery-3.1.1.min.js"></script>
+        <script type="text/javascript" src="/js/tether.min.js"></script>
+        <script type="text/javascript" src="/js/bootstrap.js"></script>
+        <script type="text/javascript" src="/js/jquery.classycountdown.js"></script>
+        <script type="text/javascript" src="/js/jquery.knob.js"></script>
+        <script type="text/javascript" src="/js/jquery.throttle.js"></script>
+        <script type="text/javascript" src="/js/scripts.js"></script>
       </Head>
 
       <main>

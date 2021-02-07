@@ -2,8 +2,10 @@
 
 import '../public/css/bootstrap.css';
 import '../public/css/ionicons.css';
-import '../public/css/responsive.css';
+import '../public/css/jquery.classycountdown.css';
 import '../public/css/styles.css';
+import '../public/css/responsive.css';
+
 
 
 
